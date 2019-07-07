@@ -2,12 +2,12 @@ git add .
 
 git commit  m-m
 
-<<<<<<< HEAD
 git push
 
 <<<<<<< HEAD
 git log
 
+<<<<<<< HEAD
 git stash
 =======
 git push
@@ -15,3 +15,6 @@ git push
 =======
 git log
 >>>>>>> parent of b7cf0f9... stash
+=======
+git stash
+>>>>>>> parent of 5455b02... r4
