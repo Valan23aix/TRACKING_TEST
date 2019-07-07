@@ -6,10 +6,11 @@ git push
 
 git log
 
-<<<<<<< HEAD
-git stash git diff 
-=======
-git stash
+
+git stash 
+
+git diff 
+
 
 git tag
->>>>>>> cda567fe6c7fe2d0b013cfc94963519a6a93e8eb
+
