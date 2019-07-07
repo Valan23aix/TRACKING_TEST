@@ -5,3 +5,5 @@ git commit  m-m
 git push
 
 git log
+
+git stash
