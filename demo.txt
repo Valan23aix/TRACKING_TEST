@@ -7,3 +7,5 @@ git push
 git log
 
 git stash
+
+git tag
