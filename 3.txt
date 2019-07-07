@@ -1,7 +1,6 @@
 hi there
 
-<<<<<<< Updated upstream
-hi demobranch
-=======
-testing tags
->>>>>>> Stashed changes
+test
+
+
+
