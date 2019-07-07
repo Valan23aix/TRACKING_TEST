@@ -1,0 +1,27 @@
+touch test.txt
+git add test.txt
+git commit -m
+git push --set-upstream origin B1-class
+===
+
+git add test1.txt
+
+git commit -a -m "anymessage"
+git commit --amend -m "message related commit"
+git push
+git pull
+git log
+git status
+git init
+git remote -v
+git remote add anyname url_of_empty_repository
+git push origin master
+git branch branchname
+git checkout branchname
+git merge branchname1 branchname2 (master stl)master
+git rebase branchname1 branchname2
+git branch -m old_branch_name new_branch_name // branch rename
+git branch -d branchname1 //delete the merged branch
+git branch -d -r origin/branch_name origin/branch_name origin // to delete the remote branch
+git push origin --delete branchname  // delete the mranch from remote
+
