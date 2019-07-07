@@ -2,12 +2,8 @@ git add .
 
 git commit  m-m
 
-<<<<<<< HEAD
 git push
 
 git log
 
 git stash
-=======
-git push
->>>>>>> parent of abb3865... log
