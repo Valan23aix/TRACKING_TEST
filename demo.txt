@@ -5,9 +5,13 @@ git commit  m-m
 <<<<<<< HEAD
 git push
 
+<<<<<<< HEAD
 git log
 
 git stash
 =======
 git push
 >>>>>>> parent of abb3865... log
+=======
+git log
+>>>>>>> parent of b7cf0f9... stash
